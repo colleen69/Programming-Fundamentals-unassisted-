@@ -1,0 +1,33 @@
+.heading {
+    width: 100%;
+    text-align: center;
+    font-family: 'Roboto Slab', serif; 
+    letter-spacing: 1px;
+    color: #9a2424;
+}
+
+.title {
+    background-color: #9a2424;
+     width: 100%;
+    text-align: center;
+    font-family: 'Open Sans-bold', sans-serif;
+    letter-spacing: 1px;
+    color: #fff;
+    padding: 8px 0;    
+}
+
+.bold {
+    font-weight: 900;
+}
+
+h4{
+    font-size: 25px;
+}
+
+img {
+    filter:brightness(70%);
+}
+
+img:hover {
+  filter:none;
+}
